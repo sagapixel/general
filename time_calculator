@@ -1,0 +1,5 @@
+=ROUNDUP((TIME(14,30,0)-TIME(10,0,0))*24, 2)
+
+The first part is for the task's end time in hours, min, secs.
+The second part is for the task's start time in hours, min, secs.
+Hours get input in 24hs format.
