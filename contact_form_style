@@ -1,0 +1,9 @@
+<div style="width:600px; margin:auto;">
+<div style="background:#000; padding:30px; color:white; font-size:24px;">
+You got a message from [field id="name"]</div>
+<div style="background:#F9F9F9; padding:30px; font-size:20px;">
+See details below:
+<br>
+[all-fields]
+</div>
+</div>
