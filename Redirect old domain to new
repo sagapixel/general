@@ -4,3 +4,18 @@
   RewriteCond %{HTTP_HOST} ^www.olddomainname.com$
   RewriteRule (.*)$ https://newdomainname.com$1 [R=301,L]
 </IfModule>
+
+Redirect 301	/	https://dev20.sagapixel.net/couture/
+Redirect 301	/bridal-gowns-2/	        https://dev20.sagapixel.net/couture/wedding-dresses/
+Redirect 301	/accessories/           	https://dev20.sagapixel.net/couture/bridal-accessories-2/
+Redirect 301	/appointment-request/    	https://dev20.sagapixel.net/appointment-request/
+Redirect 301	/mothers-dresses-evening-wear/	https://dev20.sagapixel.net/couture/mother-dresses/
+Redirect 301	/awards/	https://dev20.sagapixel.net/real-bride/
+Redirect 301	/about-lh-bridal/	https://dev20.sagapixel.net/about-us/
+Redirect 301	/alterations-2/	https://dev20.sagapixel.net/alterations/
+Redirect 301	/contact-us/	https://dev20.sagapixel.net/contact-us/
+Redirect 301	/bridesmaids/	https://dev20.sagapixel.net/couture/bridesmaid-dresses/
+Redirect 301	/curvy-corner-3/	https://dev20.sagapixel.net/couture/plus-size-wedding-dresses/
+Redirect 301	/events/	https://dev20.sagapixel.net/events/
+Redirect 301	/brides/	https://dev20.sagapixel.net/real-bride/
+Redirect 301	/testimonial-videos/	https://dev20.sagapixel.net/real-bride/
