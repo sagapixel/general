@@ -1,6 +1,6 @@
 <script>
 
-/*This is the only part of the code that needs to be edited, by using the fields IDs*/
+/*This is the only part of the code that needs to be edited, by using the fields IDs. There's have to be one sub-select per option.*/
 let showThisFieldIf = {
     interestedinBridal: {
         appointmentlocation: [2],
