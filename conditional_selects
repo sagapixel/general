@@ -1,3 +1,6 @@
+Use this to show diffrent sub-fields depending the option selected on a previous field.
+Original tutorial: https://element.how/elementor-pro-add-conditional-form-fields/
+
 <script>
 
 /*This is the only part of the code that needs to be edited, by using the fields IDs. There's have to be one sub-select per option.*/
