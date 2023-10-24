@@ -2,7 +2,7 @@
   RewriteEngine On
   RewriteCond %{HTTP_HOST} ^olddomainname.com$ [OR]
   RewriteCond %{HTTP_HOST} ^www.olddomainname.com$
-  RewriteRule (.*)$ https://newdomainname.com$1 [R=301,L]
+  RewriteRule (.*)$ https://newdomainname.com/$1 [R=301,L]
 </IfModule>
 
 Redirect 301	/	https://dev20.sagapixel.net/couture/
