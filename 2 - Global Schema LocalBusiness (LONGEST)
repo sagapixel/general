@@ -1,0 +1,131 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "https://www.lavenderhomecare.com/",
+  "image": "https://cdn-kpclb.nitrocdn.com/FdjWlWDqNgexGBTiMHrPCOOcjmiISGQr/assets/images/optimized/rev-6bd7b01/www.lavenderhomecare.com/wp-content/uploads/2023/08/lavender-LOGO-PNG-01.png",
+  "@id": "https://www.lavenderhomecare.com/",
+  "url": "https://www.lavenderhomecare.com/",
+  "telephone": "+1-937-870-2627",
+  "priceRange": "$$-$$$",
+  "address": {
+	"@type": "PostalAddress",
+	"streetAddress": "31 S. Main Street Suite 384",
+	"addressLocality": "Dayton",
+	"addressRegion": "OH",
+	"postalCode": "45402",
+	"addressCountry": "US"
+  },
+  "areaServed": [
+  	{
+    	"@type": "City",
+    	"name": "Kettering",
+    	"@id": "https://www.lavenderhomecare.com/areas-we-serve/kettering/"
+  	},
+  	{
+    	"@type": "City",
+    	"name": "Oakwood",
+    	"@id": "https://www.lavenderhomecare.com/areas-we-serve/oakwood/"
+  	},
+  	{
+    	"@type": "City",
+    	"name": "Centerville",
+    	"@id": "https://www.lavenderhomecare.com/areas-we-serve/centerville/"
+  	},
+  	{
+    	"@type": "City",
+    	"name": "Springboro",
+    	"@id": "https://www.lavenderhomecare.com/areas-we-serve/springboro/"
+  	},
+  	{
+    	"@type": "City",
+    	"name": "Bellbrook",
+    	"@id": "https://www.lavenderhomecare.com/areas-we-serve/bellbrook/"
+  	},
+  	{
+    	"@type": "City",
+    	"name": "Beavercreek",
+    	"@id": "https://www.lavenderhomecare.com/areas-we-serve/beavercreek/"
+  	},
+  	{
+    	"@type": "City",
+    	"name": "Fairborn",
+    	"@id": "https://www.lavenderhomecare.com/areas-we-serve/fairborn/"
+  	},
+  	{
+    	"@type": "City",
+    	"name": "Xenia",
+    	"@id": "https://www.lavenderhomecare.com/areas-we-serve/xenia/"
+  	},
+  	{
+    	"@type": "City",
+    	"name": "Yellow Springs",
+    	"@id": "https://www.lavenderhomecare.com/areas-we-serve/yellow-springs/"
+  	},
+  	{
+    	"@type": "City",
+    	"name": "Vandalia",
+    	"@id": "https://www.lavenderhomecare.com/areas-we-serve/vandalia/"
+  	},
+  	{
+    	"@type": "City",
+    	"name": "Huber Heights",
+    	"@id": "https://www.lavenderhomecare.com/areas-we-serve/huber-heights/"
+  	},
+  	{
+    	"@type": "City",
+    	"name": "Englewood",
+    	"@id": "https://www.lavenderhomecare.com/areas-we-serve/englewood/"
+  	}
+	],
+  "openingHoursSpecification": {
+	"@type": "OpeningHoursSpecification",
+	"dayOfWeek": [
+  	"Monday",
+  	"Tuesday",
+  	"Wednesday",
+  	"Thursday",
+  	"Friday",
+  	"Saturday",
+  	"Sunday"
+	],
+	"opens": "00:00",
+	"closes": "23:59"
+  },
+  "sameAs": [
+	"https://www.facebook.com/LavenderHCS",
+	"https://twitter.com/LavenderHC",
+	"https://www.manta.com/c/m1wxqzh/lavender-home-care-solutions",
+	"https://directory.company.com/business/view/lavender-home-care-solutions",
+	"https://www.ailoq.com/ohio/dayton/lavender-home-care-solutions",
+	"https://www.storeboard.com/lavenderhomecaresolutions",
+	"https://www.brownbook.net/business/52157819/lavender-home-care-solutions/",
+	"https://www.hotfrog.com/company/5382f01f18b5de2f4dc9bf1c502614db/lavender-home-care-solutions/dayton/hospice-home-health-care",
+	"http://tupalo.com/en/dayton-ohio/lavender-home-care-solutions",
+	"https://www.catskill.online/ohio/dayton/lavender-home-care-solutions",
+	"https://www.cybo.com/US-biz/lavender-home-care-solutions_30",
+	"https://ebusinesspages.com/Lavender-Home-Care-Solutions_elgk6.co",
+	"https://sites.bubblelife.com/community/lavender_home_care_solutions",
+	"https://www.techdirectory.io/ohio/dayton/medical-services/lavender-home-care-solutions",
+	"https://www.twidloo.com/united-states/ohio/dayton/45402/health-medical/lavender-home-care-solutions",
+	"https://www.callupcontact.com/b/businessprofile/Lavender_Home_Care_Solutions/8743022",
+	"https://www.startus.cc/company/lavender-home-care-solutions",
+	"https://yellow.place/en/lavender-home-care-solutions-1-dayton-oh-usa",
+	"https://us.enrollbusiness.com/BusinessProfile/6430404/Lavender-Home-Care-Solutions-Dayton-OH-45402",
+	"https://www.digitalbusinessdirectory.online/ohio/dayton/lavender-home-care-solutions",
+	"https://parkbench.com/directory/lavender-home-care-solutions",
+	"https://www.linkcentre.com/profile/lavenderhomecaresolutions/",
+	"https://www.n49.com/biz/5695578/lavender-home-care-solutions-oh-dayton-31-s-main-st/",
+	"https://citysquares.com/b/lavender-home-care-solutions-25440923",
+	"https://www.merchantcircle.com/lavender-home-care-solutions1-dayton-oh",
+	"https://maps.apple.com/place?auid=16657806877679196288",
+	"https://www.neustarlocaleze.biz/directory/us/oh/dayton/45402/lavender-home-care-solutions/907756432/",
+	"https://foursquare.com/lavender6065131",
+	"https://local-listings.data-axle.com/places/ESSYGRSW",
+	"https://www.yellowpages.com/nationwide/mip/lavender-home-care-solutions-559106650",
+	"https://www.dexknows.com/nationwide/bp/lavender-home-care-solutions-559106650",
+	"https://www.superpages.com/dayton-oh/bpp/lavender-home-care-solutions-559106650",
+	"https://www.waze.com/en/live-map/directions/us/oh/dayton/lavender-home-care-solutions?place=ChIJ_____y-PQIgRqSxm03i-_Tg"
+  ]
+}
+</script>
