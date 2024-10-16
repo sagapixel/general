@@ -1,0 +1,43 @@
+/* HIDES THE DARK LOGO */
+#d-logo {
+ display: none;
+}
+/* SWITCHES LOGO ON SCROLL */
+.elementor-sticky--effects #d-logo {
+ display: inline-block;
+}
+.elementor-sticky--effects #l-logo {
+ display: none;
+}
+/* CHANGES THE BACKGROUND MENU ON SCROLL */
+.elementor-sticky--effects {
+ background: #fff!important; /* edit here to change the background color for your sticky header*/
+}
+/* CHANGES THE TEXT COLOR ON SCROLL */
+.elementor-sticky--effects .sticky-menu-items ul li a {
+ color: #333!important; /* edit here to change your text color for sticky header */
+}
+/* CONTROLS THE TRANSITION SPEED - KEEP ALL SAME SPEED TO HAVE A CLEAN EFFECT */
+.elementor-sticky--effects .sticky-menu-items ul li a {
+ transition: .5s all ease-in-out;
+}
+.elementor-sticky--effects {
+ transition: .5s all ease-in-out;
+}
+
+/*updated changing mobile hamburger menu toggle and menu links on hover on scroll */
+
+/*change color to the mobile menu toggle*/
+.elementor-sticky--effects .sticky-menu-items i {
+ color: /*add your color here*/!important;
+}
+
+/*add color to the background of mobile toggle*/
+.elementor-sticky--effects .sticky-menu-items .elementor-menu-toggle {
+ background: /*add the background color here or add transparent for no background color*/!important;
+}
+
+/*CHANGES THE ACTIVE MENU ITEM ON SCROLL*/
+.elementor-sticky--effects .sticky-menu-items ul li .elementor-item-active {
+ color: /*add your color here*/!important; /* edit here to change the active menu item text color for sticky header */
+}
