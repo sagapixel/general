@@ -1,0 +1,35 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Plumber",
+  "name": "Al Coronado Plumbing",
+  "url": "https://alcoronadoplumbing.com/",
+  "email": "Info@AlCoronadoPlumbing.com",
+  "telephone": "+1 520-834-8400",
+  "alternateTelephone": "+1 520-653-5440",
+  "description": "Al Coronado Plumbing provides exceptional plumbing service to ensure that your business operations aren't disrupted by plumbing issues. Our professional team is committed to delivering fast, effective solutions for repairs, replacements, and ongoing maintenance.  We also specialize in emergency plumbing services.",
+  "priceRange": "$", // You can adjust the price range based on your services
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "6149 N Travel Center Dr",
+    "addressLocality": "Tucson",
+    "addressRegion": "AZ",
+    "postalCode": "85741",
+    "addressCountry": "US",
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 32.3184542,
+      "longitude": -111.0496419
+    }
+  },
+  "openingHours": "Mo-Sa 07:00-20:00", // Monday to Saturday 7AM to 8PM
+  "logo": "https://alcoronadoplumbing.com/wp-content/uploads/2024/03/AlCoronadoPlumbing-Logo-1.png",
+  "sameAs": [
+    "https://www.facebook.com/alcoronadoplumbing/reviews/",
+    "https://www.google.com/search?hl=en-US&gl=us&q=Al+Coronado+Plumbing,+6149+N+Travel+Center+Dr,+Tucson,+AZ+85741&ludocid=725447867103182109&lsig=AB86z5WHZDhWP8aXp2yI-Bxsc2bl&pli=1#lrd=0x86d6713bd17b6d61:0xa114efdd5bffd1d,3&pli=1",
+    "https://www.yelp.com/biz/al-coronado-plumbing-tucson",
+    "https://www.linkedin.com/company/al-coronado-plumbing/",
+    "https://www.youtube.com/c/AlCoronadoPlumbingTucson",
+    "https://www.instagram.com/alcoronadoplumbing/",
+    "https://alcoronadoplumbing.com/wp-content/themes/yootheme/cache/52/AlCoronadoPlumbing-Logo-1.52169f68.webp"
+  ]
+}
